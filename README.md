@@ -43,7 +43,7 @@ The dataset used for training and testing the models is obtained from a verified
 
 ## Contributors
 
-- SRISHANTH REDDY NARRA (Reach out: [kamleshbaheti2232@gmail.com](mailto:srishanthreddy456@gmail.com))
+- SRISHANTH REDDY NARRA (Reach out: [srishanthreddy456@gmail.com](mailto:srishanthreddy456@gmail.com))
 
 ## License
 
